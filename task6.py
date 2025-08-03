@@ -1,4 +1,4 @@
-'''Task 2: Using the Math Module for Calculations
+'''Task 6: Using the Math Module for Calculations
  
 Problem Statement: Write a Python program that:
 1.   Asks the user for a number as input.
@@ -19,3 +19,4 @@ sine_value = math.sin(no)
 print("Square root:  ",square_root)
 print("Logarithm: ",logarithm)
 print("Sine: ",sine_value)
+
